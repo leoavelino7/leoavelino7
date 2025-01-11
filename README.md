@@ -20,6 +20,5 @@
  _____
 <div>
   <a href="https://www.linkedin.com/in/leonardoavelino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
-  <a href="https://twitter.com/leoavelino16" target="_blank"><img alt="Linktree" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20211104142029" target="_blank"></a>
 
 </div>
